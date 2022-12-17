@@ -8,7 +8,7 @@ def meu_in(elemento, sequencia):
         if e == elemento:
             return True
         
-        return False
+    return False
 
 # palavra = input()
 
